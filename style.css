@@ -1,0 +1,24 @@
+body {
+  background-color: blanchedalmond;
+}
+h1 {
+  Color: black;
+  font-size: 20pt;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: aquamarine;
+}
+p {
+  Color: blue;
+  font-size: 15pt;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li {
+  color: green;
+  font-size: 20pt;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-color: blue;
+}
+a {
+color: orange;
+font-size: 15pt;
+}
